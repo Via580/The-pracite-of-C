@@ -1,4 +1,0 @@
-﻿  test.c
-D:\Code(C语言）\test_2025_5_8\test.c(7,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\Code(C语言）\test_2025_5_8\test.c(22,1): warning C4172: 返回局部变量的地址或临时 : ss
-  test_2025_5_8.vcxproj -> D:\Code(C语言）\test_2025_5_8\x64\Debug\test_2025_5_8.exe
