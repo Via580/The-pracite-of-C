@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Code(C语言）\pra_2025_5_20\test.c(25,35): warning C4047: “函数”:“char **”与“char [10][10]”的间接级别不同
+D:\Code(C语言）\pra_2025_5_20\test.c(25,35): warning C4024: “longestCommonPrefix”: 形参和实参 1 的类型不同
+  pra_2025_5_20.vcxproj -> D:\Code(C语言）\pra_2025_5_20\x64\Debug\pra_2025_5_20.exe
